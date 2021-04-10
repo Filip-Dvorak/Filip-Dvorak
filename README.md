@@ -1,4 +1,4 @@
-### Hi there 👋
+### Čau ahoj 👋
 
 <!--
 **Filip-Dvorak/Filip-Dvorak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
