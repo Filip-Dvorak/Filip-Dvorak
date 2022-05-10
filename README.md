@@ -1,9 +1,7 @@
 ### Čau ahoj 👋
 
 
-⚡ Zatím tu je jen Vozový park 
 
-Další projekty coming soon:tm:
 
 <img align="left" alt="Ssps" width="42px" src="https://www.presloviny.cz/wp-content/uploads/2019/11/Datov%C3%BD-zdroj-17@8x-kopie.png"
 />
